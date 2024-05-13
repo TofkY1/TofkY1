@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TofkY1
 - 👀 I’m interested in technologies and new programming tools
-- 🌱 I’m currently learning software testing
+- 🌱 I’m currently learning RPA
 - 📫 How to reach me from LinkedIn https://www.linkedin.com/in/marwan-tawfik-468789284/
 
 <!---
